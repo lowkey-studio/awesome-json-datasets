@@ -118,6 +118,9 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 > Pro Tip: At [https://datos.gob.es/](https://datos.gob.es/catalogo?res_format_label=JSON) you can filter all kinds of public Spanish data. From universities to local and regional government institutions.
 
+* Pakistan
+  * [Residential Electricity Tariff 2026 (S.R.O. 279(I)/2026)](https://raw.githubusercontent.com/lowkey-studio/pakistan-electricity-tariff/main/tariff.json)
+
 ## Historical Events
 * Languages
   * [English](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=en)
